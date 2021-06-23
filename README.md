@@ -6,7 +6,7 @@ Created this app for creators and everyone out there who wants to share their cr
 <br>
 <br>
 <a href = "https://github.com/lo0veto0z/blog2.github.io/blob/firstform/Creatorz%20App.apk?raw=true"><img src="https://raw.githubusercontent.com/lo0veto0z/CreatorzApp/main/creatorzApp.png" alt="Creatorz app" ></a><br>
-  <a href="https://github.com/lo0veto0z/blog2.github.io/blob/firstform/Creatorz%20App.apk?raw=true">Download </a>
+  <a href="https://github.com/lo0veto0z/blog2.github.io/blob/firstform/Creatorz%20App.apk?raw=true">Download App</a>
 
 How to Download the application ?
 1. Download the apk file , by clicking on <a href="https://github.com/lo0veto0z/blog2.github.io/blob/firstform/Creatorz%20App.apk?raw=true">Donwload the app </a>
